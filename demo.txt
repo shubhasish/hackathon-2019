@@ -1,1 +1,1 @@
-This is a demo file
+This is a demo file. I will show git rm and reset demo.
