@@ -1,1 +1,2 @@
 This is a demo file. I will show git rm and reset demo.
+This is merge from cli.
